@@ -1,8 +1,5 @@
 <div align="center">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-  </style>
-  <h1 align="center" style="font-family: 'Montserrat', sans-serif;">Oratio</h1>
+  <h1 align="center" style="font-size: 5rem;">Oratio</h1>
   <p align="center">
     <strong>L'excellence linguistique par l'intelligence artificielle.</strong>
   </p>
