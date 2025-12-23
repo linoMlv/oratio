@@ -1,8 +1,8 @@
 <div align="center">
-  <br />
-  <img src="public/logo.svg" alt="Oratio Logo" width="120" />
-  <br />
-  <h1 align="center">Oratio</h1>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+  </style>
+  <h1 align="center" style="font-family: 'Montserrat', sans-serif;">Oratio</h1>
   <p align="center">
     <strong>L'excellence linguistique par l'intelligence artificielle.</strong>
   </p>
@@ -54,7 +54,7 @@ Construit avec des technologies modernes pour garantir performance et fluidité 
 
 1.  **Cloner le dépôt**
     ```bash
-    git clone https://github.com/coodlab/oratio.git
+    git clone https://github.com/linoMlv/oratio.git
     cd oratio
     ```
 
@@ -101,5 +101,5 @@ Un projet imaginé et développé par **Coodlab**.
 ---
 
 <div align="center">
-  <i>Fait avec ❤️ et de l'IA.</i>
+  <i>Fait avec ❤️ de l'IA.</i>
 </div>
