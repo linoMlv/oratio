@@ -290,7 +290,7 @@ export const Editor = ({ apiKey, onRequireKey }: { apiKey: string, onRequireKey:
           {text.length} caractères &bull; {text.split(/\s+/).filter((w: string) => w).length} mots
         </div>
         <div>
-          Propulsé par Google Gemini &bull; Oratio
+          Coodlab, Mallevaey Lino &bull; Oratio
         </div>
       </div>
 
